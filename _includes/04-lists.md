@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+- GitHub
+  - GitHub core features
+  - GitHub Actions
+  - GitHub Pages
+  - GitHub security features
+- Azure DevOps
+  - Azure Repos
+  - Azure Pipelines
+  - Azure Boards
+  - Azure Test Plans
+  - Azure Artifacts
