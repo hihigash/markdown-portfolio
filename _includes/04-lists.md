@@ -1,0 +1,11 @@
+- GitHub
+  - GitHub core features
+  - GitHub Actions
+  - GitHub Pages
+  - GitHub security features
+- Azure DevOps
+  - Azure Repos
+  - Azure Pipelines
+  - Azure Boards
+  - Azure Test Plans
+  - Azure Artifacts
